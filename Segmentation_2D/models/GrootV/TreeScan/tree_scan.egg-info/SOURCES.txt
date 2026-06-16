@@ -1,0 +1,12 @@
+setup.py
+/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/tree_scan/csrc/bfs.cu
+/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/tree_scan/csrc/boruvka.cu
+/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/tree_scan/csrc/boruvka_rst.cu
+/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/tree_scan/csrc/mst.cu
+/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/tree_scan/csrc/refine.cu
+/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/tree_scan/csrc/rst.cu
+/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/tree_scan/csrc/vision.cpp
+tree_scan.egg-info/PKG-INFO
+tree_scan.egg-info/SOURCES.txt
+tree_scan.egg-info/dependency_links.txt
+tree_scan.egg-info/top_level.txt

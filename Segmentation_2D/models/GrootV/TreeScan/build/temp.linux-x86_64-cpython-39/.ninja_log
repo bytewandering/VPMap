@@ -1,0 +1,8 @@
+# ninja log v5
+1	1402	1723212869217075471	/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/build/temp.linux-x86_64-cpython-39/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/tree_scan/csrc/boruvka.o	791e6bdc45b1b07e
+2	1576	1723212869393091811	/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/build/temp.linux-x86_64-cpython-39/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/tree_scan/csrc/boruvka_rst.o	5095317fc0b90c42
+4	30181	1723212897975745210	/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/build/temp.linux-x86_64-cpython-39/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/tree_scan/csrc/vision.o	7dd5d5700ed4326b
+2	31408	1723212899199858847	/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/build/temp.linux-x86_64-cpython-39/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/tree_scan/csrc/mst.o	58d81e7abc1a0121
+1	31828	1723212899623898211	/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/build/temp.linux-x86_64-cpython-39/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/tree_scan/csrc/bfs.o	80f334f03f3d44ff
+4	32426	1723212900215953173	/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/build/temp.linux-x86_64-cpython-39/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/tree_scan/csrc/rst.o	e7673e9bba7025e2
+3	32678	1723212900463976198	/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/build/temp.linux-x86_64-cpython-39/root/tasks/IAS_2D_DSA_Segmentation/models/GrootV/TreeScan/tree_scan/csrc/refine.o	95a7f3bb9135eb0e

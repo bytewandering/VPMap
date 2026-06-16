@@ -1,4 +1,4 @@
-This repository contains the implementation of **VPMap: Vascular-anatomy and Projective-prior based Mapping for 2D/3D Cerebrovascular Surgical Navigation**.
+This repository contains the implementation of **Towards Precise Guidance: A Novel Cross-Dimensional Mapping Framework for 3D Cerebrovascular Surgical Navigation**.
 
 **Overview**
 

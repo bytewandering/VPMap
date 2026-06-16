@@ -1,6 +1,6 @@
-This repository contains the implementation of VPMap: Vascular-anatomy and Projective-prior based Mapping for 2D/3D Cerebrovascular Surgical Navigation.
+This repository contains the implementation of **VPMap: Vascular-anatomy and Projective-prior based Mapping for 2D/3D Cerebrovascular Surgical Navigation**.
 
-Overview
+**Overview**
 
 VPMap is a 2D/3D mapping framework for cerebrovascular surgical navigation. It aims to align intraoperative 2D DSA images with preoperative 3D vascular models by combining vascular anatomical information and projective priors.
 
